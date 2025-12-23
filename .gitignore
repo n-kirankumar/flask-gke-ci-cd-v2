@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / IDE
+.vscode/
+.DS_Store
+
